@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MonitoringAndFeedback9</string>
+    <string name="ding">ding</string>
+    <string name="speak">Speak!</string>
+</resources>
